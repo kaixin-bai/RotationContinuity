@@ -7,3 +7,5 @@ I will release the formal one later.
 
 Python version: 3.6
 Pytorch version: 0.4.1.post2
+
+6D Rotatoin Representatoin代码库，相互转换在“RotationContinuity/shapenet/code/tools.py”
